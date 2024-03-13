@@ -40,5 +40,3 @@ This Python script demonstrates a method for detecting image similarity using th
 - delete_downloaded_images(image_paths): Function to delete downloaded images after use.
 
 ---
-
-You can copy and paste these lines into your README.md file, and it will format each section appropriately. Adjust the content as needed for your project.
